@@ -9,7 +9,7 @@ from telegram.ext import (
     ContextTypes,
 )
 
-BOT_TOKEN = "ضع_التوكن_هنا"
+BOT_TOKEN = "8800017634:AAEVSAqVuVzk_eXkaxB8_-kWU87YL0tgah0"
 DATA_URL = "ضع_رابط_الملف_الخام_هنا"
 DB_FILE = "ratings.db"
 
