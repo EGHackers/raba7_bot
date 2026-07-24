@@ -10,7 +10,7 @@ from telegram.ext import (
 )
 
 BOT_TOKEN = "8800017634:AAEVSAqVuVzk_eXkaxB8_-kWU87YL0tgah0"
-DATA_URL = "ضع_رابط_الملف_الخام_هنا"
+DATA_URL = "https://github.com/EGHackers/raba7_bot/blob/main/platforms.json"
 DB_FILE = "ratings.db"
 
 def init_db():
